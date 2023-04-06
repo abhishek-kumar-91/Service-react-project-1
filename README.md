@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+In the project directory run for add that file
+### 'npm i react-router-dom react-icons sass
+
+for single page routing then install that module\
+npm i react-router-hash-link
+
+for service page that used carousal adding through this command
+npm i react-responsive-carousal
+
+
 In the project directory, you can run:
 
 ### `npm start`
