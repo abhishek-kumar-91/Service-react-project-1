@@ -7,6 +7,14 @@ app live link
 https://service-react-project-1.vercel.app/
 
 
+Home page
+![Screenshot (153)](https://github.com/abhishek-kumar-91/Service-react-project-1/assets/111195553/ef66a167-ff2a-4083-b2aa-1a807d58cbe7)
+
+
+![Screenshot (155)](https://github.com/abhishek-kumar-91/Service-react-project-1/assets/111195553/a49630da-fbf6-4dbb-b08c-bf532500ffd6)
+![Screenshot (154)](https://github.com/abhishek-kumar-91/Service-react-project-1/assets/111195553/f3978c62-b968-414f-b6d0-78c92f2cc8bd)
+![Screenshot (156)](https://github.com/abhishek-kumar-91/Service-react-project-1/assets/111195553/3d5e826a-0aa7-4716-aa60-39120bc3a8e6)
+
 In the project directory run for add that file
 ### 'npm i react-router-dom react-icons sass
 
